@@ -3,8 +3,8 @@ spring:
     name: api
   datasource:
     url: jdbc:postgresql://localhost:5432/ebank-db
-    username: issam
-    password: mimita99
+    username:
+    password:
     name: ebank-db
   jpa:
     properties:
